@@ -41,7 +41,7 @@ The application will start on your local development server.
 
 📸 Preview
 
-(https://github.com/user-attachments/assets/66cd2633-f452-4509-ada8-ed6f50389bd5)
+https://github.com/user-attachments/assets/66cd2633-f452-4509-ada8-ed6f50389bd5
 
 📚 What I Learned
 
